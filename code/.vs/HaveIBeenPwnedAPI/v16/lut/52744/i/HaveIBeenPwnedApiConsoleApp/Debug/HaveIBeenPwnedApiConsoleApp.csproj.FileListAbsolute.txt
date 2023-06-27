@@ -1,0 +1,6 @@
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedApiTest\bin\Debug\HaveIBeenPwnedApiTest.exe.config
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedApiTest\bin\Debug\HaveIBeenPwnedApiTest.exe
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiConsoleApp\Debug\HaveIBeenPwnedApiConsoleApp.csproj.AssemblyReference.cache
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiConsoleApp\Debug\HaveIBeenPwnedApiConsoleApp.csproj.CoreCompileInputs.cache
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiConsoleApp\Debug\HaveIBeenPwnedApiConsoleApp.csproj.CopyComplete
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiConsoleApp\Debug\HaveIBeenPwnedApiTest.exe

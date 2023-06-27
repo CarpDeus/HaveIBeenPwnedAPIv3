@@ -1,0 +1,8 @@
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedApiUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedApiUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedApiUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedApiUnitTests\bin\Debug\HaveIBeenPwnedApiUnitTests.dll
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiUnitTests\Debug\HaveIBeenPwnedApiUnitTests.csproj.CoreCompileInputs.cache
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiUnitTests\Debug\HaveIBeenPwnedApiUnitTests.csproj.CopyComplete
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiUnitTests\Debug\HaveIBeenPwnedApiUnitTests.dll
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedApiUnitTests\Debug\HaveIBeenPwnedApiUnitTests.csproj.AssemblyReference.cache

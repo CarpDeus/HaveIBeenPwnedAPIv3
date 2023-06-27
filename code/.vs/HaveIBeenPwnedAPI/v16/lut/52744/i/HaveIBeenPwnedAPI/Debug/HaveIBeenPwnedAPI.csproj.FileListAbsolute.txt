@@ -1,0 +1,6 @@
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedAPI\bin\Debug\HaveIBeenPwnedAPI.dll.config
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\b\HaveIBeenPwnedAPI\bin\Debug\HaveIBeenPwnedAPI.dll
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedAPI\Debug\HaveIBeenPwnedAPI.csproj.AssemblyReference.cache
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedAPI\Debug\HaveIBeenPwnedAPI.csproj.CoreCompileInputs.cache
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedAPI\Debug\HaveIBeenPwnedAPI.csproj.CopyComplete
+F:\Users\JFins\source\repos\HaveIBeenPwnedAPI\.vs\HaveIBeenPwnedAPI\v16\lut\0\i\HaveIBeenPwnedAPI\Debug\HaveIBeenPwnedAPI.dll
